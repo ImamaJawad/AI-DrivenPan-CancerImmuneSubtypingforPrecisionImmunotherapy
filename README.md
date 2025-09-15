@@ -6,4 +6,4 @@
 
 ## Overview
 
-This project leverages artificial intelligence to improve healthcare outcomes through [specific application area - e.g., medical image analysis, predictive diagnostics, drug discovery, patient monitoring]. Our AI system is designed to assist healthcare professionals in making more accurate and efficient decisions while maintaining the highest standards of patient safety and data privacy.
+This project leverages artificial intelligence to improve healthcare outcomes
