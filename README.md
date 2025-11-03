@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
 [![ML](https://img.shields.io/badge/ML-XGBoost%20%7C%20SVM%20%7C%20Neural%20Networks-green.svg)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **AI-Driven Precision Medicine**: Machine learning pipeline for classifying tumor immune microenvironments across 33 cancer types using TCGA RNA-seq data
 
